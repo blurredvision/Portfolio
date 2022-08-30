@@ -21,31 +21,31 @@ function Contact() {
                         <div>
                             <h2 className='py-2'>Nichevithan Jegatheeswaran</h2>
                             <p>Front-End Developer</p>
-                            <p className='py-4'>I am available for full-time positions or freelance. Contact me and let's talk.</p>
+                            <p className='py-4'>I am available for full-time positions or freelance. Contact me and let&apos;s talk.</p>
                         </div>
                         <div className='uppercase pt-8'>
                         <p>Connect with me</p>
                         <div className='flex items-center justify-between py-4'>
-                        <a href='https://www.linkedin.com/in/nichej'>
+                        <Link href='https://www.linkedin.com/in/nichej'>
                             <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursour-pointer hover:scale-105 ease-in duration-300'>
                                     <FaLinkedinIn />
                             </div>
-                        </a>
-                        <a href='https://github.com/blurredvision'>
+                        </Link>
+                        <Link href='https://github.com/blurredvision'>
                             <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursour-pointer hover:scale-105 ease-in duration-300'>
                                 <FaGithub />
                             </div>
-                        </a>
-                        <a href='/#about'>
+                        </Link>
+                        <Link href='/#about'>
                             <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursour-pointer hover:scale-105 ease-in duration-300'>
                                 <BsFillPersonLinesFill />
                             </div>
-                        </a>
-                        <a href='/#contact'>
+                        </Link>
+                        <Link href='/#contact'>
                             <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursour-pointer hover:scale-105 ease-in duration-300'>
                                 <AiOutlineMail />
                             </div>
-                        </a>
+                        </Link>
                         </div>
                     </div>
                     </div>
