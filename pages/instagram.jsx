@@ -24,7 +24,9 @@ function instagram() {
             <p>
               This website is an Instagram clone as I have done this website to experiment Next JS as a framework, it has most of the features that Instagram provides such as posting pictures, liking other posts, and commenting on them posts. With server sided rendering that Next JS provides makes it easier for new posts to appear on the feed as it automatically updates the component for everyone. The application has been built using Next JS as the framework, Tailwind for styling components, NextAuth to authenticate users using Google accounts as this allows authenticated users to access all of the features the application provides, Firebase to store user’s posts, likes and comments and Hero icons for a user friendly interface.
             </p>
-            <button className='px-8 py-2 mt-4 mr-8'>Code</button>
+            <Link href='https://github.com/blurredvision/Instagram-Clone'>
+              <button className='px-8 py-2 mt-4 mr-8'>Code</button>
+            </Link>
           </div>
           <div className='col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>
             <div className='p-2'>

@@ -24,7 +24,9 @@ function valips() {
             <p>
               Valips is my final year project to finish my degree, this website is meant to be a similar platform such as TikTok and Instagram where players that play Valorant can upload their clips to the website to showcase to others, as people can like and comment on the video. The main part of the project is the machine learning body that has been developed to recognise the videos if they are appropriate to be uploaded to the server, this has been achieved using TenserFlow which is a machine learning library used to develop programs that have various features such as image and voice recognition. The technologies used for this application are NextJS for the framework, Tailwind to style the components, NextAuth to authenticate users to the application, Firebase is used to store all of the videos posted by the users, TenserFlow to detect if the video that is being posted is appropriate and Hero Icons for the icons.
             </p>
-            <button className='px-8 py-2 mt-4 mr-8'>Code</button>
+            <Link href='https://github.com/blurredvision/valips'>
+              <button className='px-8 py-2 mt-4 mr-8'>Code</button>
+            </Link>
           </div>
           <div className='col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>
             <div className='p-2'>

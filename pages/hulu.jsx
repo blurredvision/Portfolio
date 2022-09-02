@@ -24,7 +24,9 @@ function hulu() {
             <p>
               This application is about a Hulu clone as this was done to experiment with Next JS since it was the first application built using Next JS. Within the application is allows users to browse through different movies according to its genre and view information about the movie. It was built using Next JS, Tailwind to style the components, Hero icons for a user-friendly interface and The Movie Database API to gather all the movies from its database and display it on the website.  
             </p>
-            <button className='px-8 py-2 mt-4 mr-8'>Code</button>
+            <Link href='https://github.com/blurredvision/Hulu-Clone'>
+              <button className='px-8 py-2 mt-4 mr-8'>Code</button>
+            </Link>
           </div>
           <div className='col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>
             <div className='p-2'>
