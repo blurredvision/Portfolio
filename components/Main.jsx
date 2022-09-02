@@ -16,10 +16,10 @@ function Main() {
                     Hi, I&apos;m <span className='text-[#5651e5]'>Niche</span> 
                 </h1>
                 <h1 className='py-4 text-gray-700'>
-                    A Front-End Web Developer
+                    A Full Stack Developer
                 </h1>
                 <p className='py-4 text-gray-600 max-w-[70%] m-auto'>
-                    I&apos;m a Front-End developer specialised in building responsive front-end web applications. Currently, I&apos;m exploring NextJS and the potential it has whilst learning back-end technologies. 
+                    I&apos;m a Full Stack developer specialised in building responsive web applications. Currently, I&apos;m exploring NextJS and the potential it has whilst experimenting with other technologies.
                 </p>
                 <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
                     <Link href='https://www.linkedin.com/in/nichej'>
