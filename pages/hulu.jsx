@@ -27,6 +27,9 @@ function hulu() {
             <Link href='https://github.com/blurredvision/Hulu-Clone'>
               <button className='px-8 py-2 mt-4 mr-8'>Code</button>
             </Link>
+            <Link href='https://hulu-clone-taupe-ten.vercel.app/'>
+              <button className='px-8 py-2 mt-4 mr-8'>Demo</button>
+            </Link>
           </div>
           <div className='col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>
             <div className='p-2'>

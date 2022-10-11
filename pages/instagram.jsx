@@ -27,6 +27,9 @@ function instagram() {
             <Link href='https://github.com/blurredvision/Instagram-Clone'>
               <button className='px-8 py-2 mt-4 mr-8'>Code</button>
             </Link>
+            <Link href='https://insta-clone-amber.vercel.app/'>
+              <button className='px-8 py-2 mt-4 mr-8'>Demo</button>
+            </Link>
           </div>
           <div className='col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>
             <div className='p-2'>
