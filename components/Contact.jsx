@@ -21,28 +21,28 @@ function Contact() {
                         <div>
                             <h2 className='py-2'>Nichevithan Jegatheeswaran</h2>
                             <p>Full Stack Developer</p>
-                            <p className='py-4'>I am available for full-time positions or freelance. Contact me and let&apos;s talk.</p>
+                            <p className='py-4'>If my work resonates with you and you believe I would be a valuable addition to your team or project, I encourage you to reach out and get in touch with me.</p>
                         </div>
-                        <div className='uppercase pt-8'>
+                        <div className='font-bold pt-8'>
                         <p>Connect with me</p>
                         <div className='flex items-center justify-between py-4'>
                         <Link href='https://www.linkedin.com/in/nichej'>
-                            <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursour-pointer hover:scale-105 ease-in duration-300'>
+                            <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
                                     <FaLinkedinIn />
                             </div>
                         </Link>
                         <Link href='https://github.com/blurredvision'>
-                            <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursour-pointer hover:scale-105 ease-in duration-300'>
+                            <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
                                 <FaGithub />
                             </div>
                         </Link>
                         <Link href='/#about'>
-                            <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursour-pointer hover:scale-105 ease-in duration-300'>
+                            <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
                                 <BsFillPersonLinesFill />
                             </div>
                         </Link>
                         <Link href='/#contact'>
-                            <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursour-pointer hover:scale-105 ease-in duration-300'>
+                            <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300'>
                                 <AiOutlineMail />
                             </div>
                         </Link>
@@ -83,7 +83,7 @@ function Contact() {
             </div>
             <div className='flex justify-center py-12'>
                 <Link href='/'>
-                    <div className='rounded-full shadow-lg shadow-gray-400 p-4 cursour-pointer hover:scale-105 ease-in duration-300'>
+                    <div className='rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-105 ease-in duration-300'>
                         <HiOutlineChevronDoubleUp className='text-[#5651e5]' size={30} />
                     </div>
                 </Link>
